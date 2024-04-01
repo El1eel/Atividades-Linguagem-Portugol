@@ -32,7 +32,7 @@ programa {
 
     // MOSTRAR
     limpa()
-    escreva("SEU NOME É:", nome)
+    escreva("SEU NOME Ã‰:", nome)
     escreva("\nSUA IDADE:", idade)
     escreva("\n====================")
     escreva("\nSUAS NOTAS")
@@ -41,7 +41,7 @@ programa {
     escreva("\nHIST:", hist)
     escreva("\nINGLES:", ingles)
     escreva("\n====================")
-    escreva("\nSUA MEDIA ARITMETICA É:", mediaAritmetica)
+    escreva("\nSUA MEDIA ARITMETICA Ã‰:", mediaAritmetica)
 
 
 
