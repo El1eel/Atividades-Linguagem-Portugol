@@ -4,10 +4,10 @@ programa {
    real base, altura
    real calculo
     // SOLICITAR
-   escreva("QUAL É A BASE?:")
+   escreva("QUAL Ã‰ A BASE?:")
    leia(base)
 
-   escreva("QUAL É A ALTURA?:")
+   escreva("QUAL Ã‰ A ALTURA?:")
    leia(altura) 
     // CALCULAR 
    calculo = base * altura / 2
